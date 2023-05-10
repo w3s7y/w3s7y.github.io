@@ -2,7 +2,30 @@
 permalink: /about/
 title: "About"
 ---
+# Welcome to the blog of Ben West - Devops
+I am an IT professional with over 14 years working for a number of large outsourcing
+companies contracted to a multitude of public sector and private clients within the U.K.  
+I have held many roles in this time, including infra engineering (and it's spiritual sucessor 'devops') mostly.
+I have also been a delivery manager, technical trainer in a past life.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I try to be an active member of the IT community as much as possible.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Code gets published on Github so others can have a look (or maybe laugh at) what I do!  
+
+This blog got a reboot after having one many years ago I never updated.  Now I think it will be 
+valuable again even if it is just for me to have somewhere to drop ideas off and I can laugh at when I look back.  
+Or maybe I'm getting forgetful in my old age!    
+
+## Hobbies
+* SCUBA Diving
+* Climbing / Bouldering
+
+## Interests
+* Automating all the things
+* Docker and Docker orchestration
+* Hobby electronics / embedded systems (STM32 / Arduino etc.)
+* A.I and machine learning
+* Cryptography and computer security
+* Continuous integration and delivery
+* Website Builds, different frameworks etc.
+* Logging, monitoring and alerting

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Using Ansible for your home build PCs"
 date:   2017-06-05 08:00:00 +0100
 categories: blog

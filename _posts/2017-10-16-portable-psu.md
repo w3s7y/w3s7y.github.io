@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Creating a 'portapsu' from an old laptop charger and a £25 buck converter"
 date:   2017-10-16 19:37:00 +0100
 categories: blog

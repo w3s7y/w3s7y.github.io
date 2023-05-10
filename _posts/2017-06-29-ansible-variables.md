@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Ansible variable problem, and how we solved it."
 date:   2017-06-29 18:06:00 +0100
 categories: blog

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New Blog, New Project"
 date:   2017-06-02 15:34:01 +0100
 categories: blog

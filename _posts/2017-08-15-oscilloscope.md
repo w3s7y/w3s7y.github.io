@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Building an oscilloscope"
 date:   2017-08-15 08:46:00 +0100
 categories: blog

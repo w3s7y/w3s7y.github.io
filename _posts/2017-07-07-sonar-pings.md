@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sonar Ping Project"
 date:   2017-07-07 07:46:00 +0100
 categories: blog

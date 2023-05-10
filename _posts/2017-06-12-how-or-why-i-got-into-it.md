@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How (or why) I got into IT"
 date:   2017-06-12 07:58:00 +0100
 categories: blog
