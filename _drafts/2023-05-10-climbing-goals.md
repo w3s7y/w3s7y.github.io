@@ -10,7 +10,7 @@ tags:
  - climbing routes
 ---
 # UK routes
-Not really setting any route goals as I don't have anyone to go trad with :(
+Not really setting any trad route goals as I don't have anyone to go with :(
 
 If I get the chance I'll try and send these, either for their historic nature or skill required.
  

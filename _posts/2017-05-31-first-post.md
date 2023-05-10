@@ -16,7 +16,6 @@ So for that:
 
 Welcome to [w3s7ys Blog!]({{site.baseurl}})
 
-Please feel free to checkout a little personal bio about me over on the [about]({{site.baseurl}}/about) page and erm well... Sit back and enjoy!
 
 I'd like to start this blog site with a *Q&A* of sorts,
 questions I have asked myself and  my answers...
