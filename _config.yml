@@ -18,7 +18,8 @@ email: ben.west.500@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is for blogs, technical articles, reviews and general ramblings
   of myself.  All articles, opinions and views you find on this site are my own.
-repository: https://github.com/w3s7y/w3s7y/github.io
+
+repository: "w3s7y/w3s7y.github.io"
 twitter_username: username
 instagram_username: username
 github_username: w3s7y
