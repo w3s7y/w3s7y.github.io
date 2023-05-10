@@ -31,3 +31,5 @@ but I doubt that will happen!
 * [Cul red circuit (4+ - 6a)](https://bleau.info/cul/circuit102.html)
 
 ## Logistics
+
+## Camping
