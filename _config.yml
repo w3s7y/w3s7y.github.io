@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Ben Wests blog
+email: ben.west.500@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site is for blogs, technical articles, reviews and general ramblings
+  of myself.  All articles, opinions and views you find on this site are my own.
 twitter_username: username
+instagram_username: username
 github_username: w3s7y
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
