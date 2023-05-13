@@ -1,6 +1,6 @@
 ---
 title:  "2023 climbing goals"
-date:   2023-05-10 22:00:00 +0100
+date:   2023-05-13 16:00:00 +0100
 categories: 
  - climbing
  - blog
@@ -9,6 +9,15 @@ tags:
  - fontainbleau
  - climbing routes
 ---
+# Grade goals
+So at the start of the year after 4-5 months of no climbing I'm barely scraping up 5+ / 6a problems outdoors again.
+
+This year I want to rather than push into grade 7 do a bit more consolidation in grade 6, and _keep climbing_ is my
+main goal.  All the large breaks just leave me down in skill and taking half the season to get back to full strength. 
+
+So climb more, climb consistently a few times every week and get comfortable flashing 6's!
+
+
 # UK routes
 Not really setting any trad route goals as I don't have anyone to go with :(
 
@@ -29,7 +38,3 @@ but I doubt that will happen!
 
 ## Circuits
 * [Cul red circuit (4+ - 6a)](https://bleau.info/cul/circuit102.html)
-
-## Logistics
-
-## Camping
